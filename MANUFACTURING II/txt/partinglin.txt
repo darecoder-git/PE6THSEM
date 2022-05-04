@@ -1,0 +1,1 @@
+The parting line of a die cast component represents where the two different sides of the mold come together. This line often (but not always) marks the border between the inside and outside of the part. The location of the parting line indicates which side of the die is the cover and which is considered the ejector.
